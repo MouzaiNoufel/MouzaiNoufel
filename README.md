@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouzai Noufel</h1>
-<h3 align="center">Hi there! I'm an ambitious AI student with a strong passion for building intelligent systems, solving real-world problems, and creating clean, impactful code. My GitHub is where curiosity meets creativity — from machine learning models and data visualizations to full-stack web apps and interactive tools.</h3>
+<h3 align="center">Hi there! I'm an ambitious AI Engineer a strong passion for building intelligent systems, solving real-world problems, and creating clean, impactful code. My GitHub is where curiosity meets creativity — from machine learning models and data visualizations to full-stack web apps and interactive tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouzainoufel&label=Profile%20views&color=0e75b6&style=flat" alt="mouzainoufel" /> </p>
 
