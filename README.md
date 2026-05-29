@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mouzai Noufel</h1>
-<h3 align="center">Hi there! I'm an ambitious AI Engineer a strong passion for building intelligent systems, solving real-world problems, and creating clean, impactful code. My GitHub is where curiosity meets creativity — from machine learning models and data visualizations to full-stack web apps and interactive tools.</h3>
+<h1 align="center">Mouzai Noufel</h1>
+<h3 align="center">Hi there! I'm an AI Engineer passionate about building intelligent systems and developing practical solutions using Machine Learning, Deep Learning, and Computer Vision. I enjoy transforming ideas into scalable, real-world applications while maintaining clean, efficient, and well-structured code.
+
+My GitHub showcases projects ranging from AI-powered applications and object detection systems to data-driven solutions, automation tools, and full-stack web platforms. I’m continuously learning, building, and exploring new technologies to create impactful and innovative software..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouzainoufel&label=Profile%20views&color=0e75b6&style=flat" alt="mouzainoufel" /> </p>
 
